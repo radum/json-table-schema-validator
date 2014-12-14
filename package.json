@@ -1,0 +1,14 @@
+{
+  "name": "json-table-schema-validator",
+  "version": "0.0.0",
+  "description": "Node library to validate tabular data against a JSON Table Schema http://data.okfn.org/tools/",
+  "main": "lib/Validator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "RaduM",
+  "license": "MIT",
+  "dependencies": {
+    "mout": "^0.11.0"
+  }
+}
